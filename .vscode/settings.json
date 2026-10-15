@@ -1,3 +1,2 @@
-{
-    "python-envs.defaultEnvManager": "ms-python.python:system"
-}
+$env:Path += ";C:\Program Files\Git\cmd"
+git --version
